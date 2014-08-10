@@ -27,4 +27,10 @@ Yes please!!!  More info to come...
 
 ## License
 
-Deakin is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE). You are free to share and adapt the material for any purpose, even commercially so long as you give appropriate credit in your source code, website, or publication.
+Unless otherwise specified, the information in Deakin is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE). You are free to share and adapt the material for any purpose, even commercially so long as you give appropriate credit in your source code, website, or publication.
+
+This product (Deakin) incorporates data that is:
+
+- © Commonwealth of Australia (Australian Electoral Commission) 2014
+  
+  The Data (Commonwealth Electoral Boundaries (various years)) has been used in Deakin with the permission of the Australian Electoral Commission. The Australian Electoral Commission has not evaluated the Data as altered and incorporated within Deakin, and therefore gives no warranty regarding its accuracy, completeness, currency or suitability for any particular purpose.
