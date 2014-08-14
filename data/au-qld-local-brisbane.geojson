@@ -5,6 +5,10 @@
       "type": "Feature",
       "geometry": {
         "type": "GeometryCollection",
+        "properties": {
+          "name": "Brisbane"
+          "attribution": "Ben Raue - http://www.tallyroom.com.au/maps"
+        },
         "geometries": [
           {
             "type": "Polygon",
@@ -69,9 +73,6 @@
             ]
           }
         ]
-      },
-      "properties": {
-        "name": "Brisbane"
       }
     }
   ]
